@@ -1,0 +1,15 @@
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\bin\Debug\Moms Talk Crypto CEO Final Submission.exe.config
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\bin\Debug\Moms Talk Crypto CEO Final Submission.exe
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\bin\Debug\Moms Talk Crypto CEO Final Submission.pdb
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms Talk Crypto CEO Final Submission.csproj.AssemblyReference.cache
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.Form1.resources
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.Properties.Resources.resources
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms Talk Crypto CEO Final Submission.csproj.GenerateResource.cache
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms Talk Crypto CEO Final Submission.csproj.CoreCompileInputs.cache
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms Talk Crypto CEO Final Submission.exe
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms Talk Crypto CEO Final Submission.pdb
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.CreateUsername.resources
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.CreateEmployee.resources
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.EmployeeBenefitsPage.resources
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.PlayJackPot.resources
+C:\Users\sanye\source\repos\Moms Talk Crypto CEO Final Submission\obj\Debug\Moms_Talk_Crypto_CEO_Final_Submission.Hourly_Earnings.resources
